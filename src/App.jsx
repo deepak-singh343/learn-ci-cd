@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
-  return <>Learning AWS and CI/CD</>;
+  return <>Learning AWS and CI/CD...</>;
 }
 
 export default App;
